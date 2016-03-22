@@ -1,0 +1,23 @@
+######################################################
+# Fichero de configuracion de los parametros locales #
+######################################################
+
+# el tiempo se debe meter entre intervalos, hora_inicio-hora_fin.
+windows_conection=10:00-11:00,14:15-15:30,22:00-23:45;
+
+# tiempo de espera entre las busquedas en segundos
+wait_search=5;
+
+# datos de los buscadores: se pueden conseguir aqui http://www.useragentstring.com/pages/useragentstring.php
+user_agent="Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36";
+accept="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";
+language="es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3";
+encoding="deflate";
+connection="keep-alive";
+cache_control="max-age=0";
+
+# imagen personalizada
+profile_image="user-male-icon.png";
+
+# paletas predeterminadas:default, metal, dark, light, pink, orange, green, blue;
+color=default;
