@@ -1,0 +1,6 @@
+#Author:
+	Arnaud
+	paomedia
+	https://github.com/paomedia
+#License:
+	Public domain
