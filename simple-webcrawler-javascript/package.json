@@ -1,0 +1,19 @@
+{
+  "name": "simple-webcrawler-javascript",
+  "version": "2016.03.24",
+  "description": "simple webcrawler",
+  "main": "crawler.js",
+  "author": "VCarrera",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "cryptojs": "^2.5.3",
+    "js-crc": "^0.1.0",
+    "mongoose": "^4.4.10",
+    "natural": "^0.4.0",
+    "request": "^2.69.0",
+    "serial-number": "^1.1.0",
+    "toragent": "^0.1.0",
+    "url-parse": "^1.0.5"
+  }
+}

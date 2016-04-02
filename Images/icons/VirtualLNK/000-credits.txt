@@ -1,0 +1,6 @@
+#Author:
+	VirtualLNK 
+	Levi Page
+	http://www.virtuallnk.com
+#License:
+	Linkware 
