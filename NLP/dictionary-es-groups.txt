@@ -1,19 +1,18 @@
+21
+21st Century Fox
 2K Games
 3Com
 4Chan
 7-Eleven
 8baochi
-21st Century Fox
-﻿21
-A7 Hosting
 A & O
 A&G Banca Privada
+A7 Hosting
 ABENGOA CL.B
 ABERTIS
 ABN AMRO
 ACERINOX
 ACS
-ACS – Actividades de Construcción y Servicios
 AEGON
 AENA
 AIRRIA
@@ -29,13 +28,12 @@ ATI Technologies
 AVIS Immobilier
 AXA
 AYK Sonnenstudios
-Abanca Corporación Bancaria
+Abanca
 Abengoa
-Abertis Infraestructuras
+Abertis
 Acciona
 Acerinox
 ActionCoach
-Activision Blizzard
 ActivoBank
 Ad-Autodienst
 Ada
@@ -44,6 +42,7 @@ Adequat
 Adhap Services
 Adolfo Dominguez
 Affymetrix
+Afterbanks
 Agatha Ruiz de la Prada
 Age d'Or Services
 Agencia Tributaria
@@ -72,7 +71,7 @@ Ambivert Creative
 Amdocs
 American Airlines Group
 Amichi
-Andbank España
+Andbank
 Andreessen Horowitz
 Anheuser-Busch InBev
 Ann Jones Digital
@@ -100,6 +99,7 @@ Aunti Anne's Hand-Rolled Soft Pretzels
 Australia and New Zealand Banking
 Autodesk
 Autosmart International
+AvatarBTC
 Avis Budget Group
 AwardSpace
 Aéroports de Paris
@@ -107,10 +107,9 @@ B-Young
 BANKIA
 BANKINTER
 BBVA
-BBVA – Banco Bilbao Vizcaya Argentaria
 BIIMM
-BME – Bolsas y Mercados Eoles SHMSF
-BMS Technologies - Steamatic
+BME
+BMS Technologies
 BNP Paribas
 BOC Hong Kong
 BP
@@ -146,8 +145,8 @@ Banco Occidental
 Banco Pastor
 Banco Pichincha
 Banco Pichincha España
+Banco Popular
 Banco Popular Eol
-Banco Popular Español
 Banco Sabadell
 Banco Santander
 Banco Urquijo
@@ -169,6 +168,7 @@ Bank of Communications
 Bank of Montreal
 Bank of New York Mellon
 Bank of Nova Scotia
+Bankast
 Bankia
 Bankinter
 Bankoa
@@ -190,6 +190,7 @@ Ben & Jerrys
 Benetton Group
 Berkshire Hathaway
 Berlitz
+Besepa
 Best Western
 Bevintel
 Bianco Footwear
@@ -197,6 +198,7 @@ Bic
 Bijoux Terner
 Bike Totaal
 BillPayForCoins
+Bit2me
 BitClub Network
 BitFury
 BitGlory
@@ -208,6 +210,7 @@ BitPay
 BitPesa
 BitQuick.co
 Bitbond
+Bitchain
 Bitcoin
 Bitcoin shopping
 Bitcoin.com
@@ -217,10 +220,12 @@ Bitexchange
 Bitlove
 Bitmain
 Bitnet.io
+Bitnovo
 Bitstamp
 Bitven.com
 BlackBerry
 Blade
+Blizzard
 BlockCyper
 Blockchain.info
 Blockstream
@@ -251,27 +256,29 @@ Bull
 Bureau Valleé
 Burger King
 BuyVip
+ByWallet
 Bylls.com
 CAIXABANK
 CE Consulting Empresarial
 CEX.io
 CNP Assurances
+CWT
 Cache Cache
 Caesarstone Sdot-Yam
-Cafe
 Caixa
 Caixabank
 Calzedonia
-Camille Albane (Dessange int.)
+Camille Albane
 Canadian Imperial Bank of Commerce
 Canal+ Groupe
 CapiFrance
 Capital One Financial Group
+Captio
 Car medic
 Carewatch
 Carl's Jr. Restaurants
 Carlin
-Carlson Wagonlit Travel (CWT)
+Carlson Wagonlit Travel
 Carrefour
 Carritus
 Carré Blanc
@@ -279,6 +286,7 @@ Cartridge World
 Cash Converters
 Cash Generator
 Cashila
+Cashually
 Catalunya Banc
 Catimini
 Cavavin
@@ -306,6 +314,7 @@ China Construction Bank
 China Everbright Bank
 China Merchants Bank
 China Minsheng Banking Corp
+Chip-Chap
 Choice hotels
 Christian Dior, S. A.
 ChromaWay
@@ -354,6 +363,7 @@ CreationsByRichie.com
 Credit Agricole
 Credit Suisse Group
 Crestcom
+Cripto Pay
 Criteria Caixacorp
 Cruise Holidays
 Cruji Coques
@@ -392,6 +402,7 @@ Dia
 DiarioBitcoin.com
 Difoundo
 Digital Currency Group
+Dinube
 Discovery Communications
 Discusfish
 Dish Network
@@ -403,6 +414,7 @@ Dr. Vinyl
 Dunkin' Donuts
 Duvel Moortgat
 Délifrance
+E.Kuantia
 E.nopi / Eye Level
 EBN Banco de Negocios
 ENAGAS
@@ -435,10 +447,10 @@ Esquires Coffee Houses
 Esthetic Center
 Etam
 Ethereum
-Ethereum
 Etos
 EurekaKids
 Euro Y Compania
+Eurobits
 Europcar
 Evo Banco
 Expedia
@@ -471,6 +483,7 @@ Foot Solutions
 Foster's Hollywood
 FotoDigital Discount
 Fotoprix
+Fox
 France Télécom
 Franck Provost
 Frederic Moreno Coiffeur
@@ -503,6 +516,7 @@ Gemini
 General Electric
 Genesis Mining.
 Gloria Jean's Coffees
+GoCardless
 GoUrl.io
 Gocco
 Godiva Chocolatier
@@ -536,6 +550,7 @@ Hacienda
 Halcourier
 Hallo Pizza
 Hampton Hotels
+Handbe
 Hang Seng Bank
 HaoBTC
 Hasbro
@@ -587,6 +602,7 @@ InXpress
 Indra Sistemas
 Industrial & Commercial Bank of China
 Industrial Bank Co
+Infobolsa
 Infosys
 Injoy
 Inlingua
@@ -640,6 +656,8 @@ KnCMiner
 Komandor
 Kondratov Labs LLC
 Kotipizza
+Kotraders
+Kuapay
 Kubota
 Kumon Inst. Of Education Co. Ltd.
 Kutxabank
@@ -726,6 +744,7 @@ Mobilcom
 Mobistar
 Mod's Hair
 Molly Maid
+Momopocket
 Monceau Fleurs
 Monoprix
 Morgan Stanley
@@ -754,6 +773,7 @@ NetEase
 New York Pizza
 NewEgg
 Nextel Argentina
+Nimble
 No Mas Vello
 Noble Markets
 Nocibé
@@ -761,6 +781,7 @@ Norauto
 Nordea Bank	Suecia
 Nordsee
 Norsk Hydro
+NotaKey
 Nouvelles Frontières
 Novanca
 Novobanco
@@ -774,6 +795,7 @@ ORPI Agences Nº
 OVS
 Obi
 Obrascon Huarte Lain
+Octopocket
 Odyssey Marine Exploration
 Offerum
 Office
@@ -782,6 +804,7 @@ Okotto
 One Shot
 OpenText Corporation
 Openbank
+Openfinance
 OptimHome
 Orchestra
 Original Marines
@@ -797,17 +820,21 @@ POPULAR
 PORTAS
 Paccar
 Pack & Send
+Pagantis
 Panoramio
 Papa John's Pizza
 Parlamento
 Party Land
 Passion Beauté
+PayThunder
+Pay[In]
 Pearle Opticiens
 Perfumesclub
 Pernod Ricard
 Pet's Place
 PetroChina
 Petrobras
+PetyCash
 Peugeot
 Phildar
 Philips
@@ -815,6 +842,7 @@ Phire Digital
 Phyramid
 PicBoton
 Pita Pit
+Pivotta
 Pixmania
 Pizza Hut
 Pizza del Arte
@@ -891,6 +919,7 @@ SABADELL
 SACYR
 SANTANDER
 SEPLAC
+SEQR
 STMicroelectronics
 Sa Nostra
 Sacyr Vallehermoso
@@ -924,6 +953,7 @@ SericaTrading & SericaPay
 ServerAstra.com Dedicated servers
 Service Store DB
 ServiceMaster Clean
+SetPay
 Shanghai Pudong Development Bank
 Sherbet Lemon
 Sibylla
@@ -955,8 +985,8 @@ Stefanel
 Stretch N Grow
 Student Web Designer
 Studienkreis
-Studio60
 Studio Figura
+Studio60
 Subway
 Sumitomo Mitsui Financial
 Sunpoint
@@ -968,7 +998,7 @@ Swarovski
 Swatch
 TAB Boards International
 TECNICAS REUNIDAS
-TELECINCO – Gestevisión Telecinco
+TELECINCO
 THQ
 TNT N.V.
 TUI Reise Center
@@ -980,7 +1010,9 @@ Targobank
 TaxAssist Accountants
 Tchip Coiffure
 Team Sportia
+TechRules
 Technip
+Technoactivity
 Tecnocasa
 TeeGschwendner
 Telefónica
@@ -1032,6 +1064,7 @@ Unit4
 Unoe Bank
 UpgradeYa
 Upim
+VDos
 VPS.AG
 Valeo
 Vector Toons
@@ -1052,6 +1085,7 @@ Wal-Mart Stores
 Wall Street Institute
 Wap WaschBär
 Webbdo.se
+Webfg Tech
 Weed Man
 Weldom
 Wells Fargo
@@ -1066,6 +1100,7 @@ Wyndham Hotels and Resorts
 Wynn Resorts Limited
 Xapo
 Xilinx
+Yaap Money
 Yamaha Music School
 Yamamay
 Yogen Fruz
@@ -1135,5 +1170,5 @@ wallstreettechnologist.com
 xt
 zeroblock.com
 Électricité de France
-à Huit (Carrefour)
+à Huit
 àSec
