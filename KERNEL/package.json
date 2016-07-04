@@ -13,6 +13,11 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.13.4",
+    "react": "^15.0.2",
+    "react-bootstrap": "^0.29.3",
+    "react-dom": "^15.0.2"
+  },
   "devDependencies": {}
 }

@@ -11,5 +11,6 @@ var ICrud = new Interface('ICrud', [
 
     'delete'
 ]);
+
 //exports
 module.exports = ICrud;

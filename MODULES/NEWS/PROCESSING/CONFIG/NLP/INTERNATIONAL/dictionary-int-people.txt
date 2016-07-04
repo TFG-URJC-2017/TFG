@@ -1,4 +1,3 @@
-21E14
 4tar
 94m3k1n9
 APerson241
@@ -56,7 +55,7 @@ Bradley Leimer
 Brayton Williams
 Brett King
 Brian Armstrong
-Brian Armstrong and Fred Erhsam
+Fred Erhsam
 Brian Forde
 Brian Hoffman
 Britney Spears
@@ -131,10 +130,12 @@ Farzad Hashemi
 Flavien
 Florian Graillot
 Flowdalic
+Forrest Voight
 Fred Ehrsam
 Gabe Evans
 Garrick Hileman
 Gavin Andresen
+Geir Harald Hansen
 Gemma Godfrey
 George Burke
 George Clooney
@@ -642,3 +643,4 @@ xslidian
 zathras-crypto
 zauguin
 zw
+﻿21E14

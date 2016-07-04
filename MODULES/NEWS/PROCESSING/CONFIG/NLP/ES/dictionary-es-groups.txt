@@ -1,4 +1,3 @@
-21
 21st Century Fox
 2K Games
 3Com
@@ -136,6 +135,7 @@ Banco Caminos
 Banco Cetelem
 Banco Comercial Português
 Banco Cooperativo Español
+Banco Eol de Crédito
 Banco Europeo de Finanzas
 Banco Finantia Sofinloc
 Banco Inversis
@@ -161,7 +161,6 @@ Bancofar
 Bancopopular-e
 Bancorreos
 Banesto
-Banco Eol de Crédito
 Bang & Olufsen
 Bank of America
 Bank of China
@@ -323,6 +322,7 @@ Ciencia Divertida
 Cimm Immobilier
 Cinnabon
 Circle
+Circule
 Cisco
 Citibank
 Citigroup
@@ -405,6 +405,7 @@ Difoundo
 Digital Currency Group
 Dinube
 Discovery Communications
+DiscusFish
 Discusfish
 Dish Network
 DivX, Inc.
@@ -460,7 +461,6 @@ Expense Reduction Analysts
 Exxon Mobil
 F2pool
 FCC
-Fomento de Construcción y Contratas
 FERROVIAL
 Factom
 Fairplay Intern. Sports
@@ -481,6 +481,7 @@ Flattr
 Flexa Furniture
 Flextronics
 Flormar Cosmetics
+Fomento de Construcción y Contratas
 Foot Solutions
 Foster's Hollywood
 FotoDigital Discount
